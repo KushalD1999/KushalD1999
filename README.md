@@ -1,6 +1,6 @@
 ### About me:
 - 👋 Hi, I’m Kushal
-- 👀 I’m interested in Software Development maily focused on backend dev, infrastructure and distributed systems.
+- 👀 I’m interested in Software Development maily focused on backend, infrastructure and distributed systems.
 
 ### Languages and Tools:
 
@@ -19,11 +19,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><br/>
 
-
-<!---
-KushalD1999/KushalD1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Github Stats:
 
 <a href="https://github.com/KushalD1999/KushalD1999">
@@ -38,5 +33,3 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:kushaldalal49@gmail.com">
   <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
 </a>
-
-<br>
